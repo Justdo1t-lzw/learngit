@@ -1,0 +1,5 @@
+bsp_uart.c:19:6:USART1_Init	1
+bsp_uart.c:26:6:USART1_Send_U8	1
+bsp_uart.c:32:6:USART1_Send_ArrayU8	1
+bsp_uart.c:46:6:HAL_UART_RxCpltCallback	2
+bsp_uart.c:126:1:__io_putchar	1

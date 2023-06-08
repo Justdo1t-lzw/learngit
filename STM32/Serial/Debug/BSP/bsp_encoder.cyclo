@@ -1,0 +1,5 @@
+bsp_encoder.c:16:16:Encoder_Read_CNT	5
+bsp_encoder.c:33:5:Encoder_Get_Count_Now	5
+bsp_encoder.c:44:6:Encoder_Get_ALL	1
+bsp_encoder.c:54:6:Encoder_Update_Count	1
+bsp_encoder.c:70:6:Encoder_Init	1
